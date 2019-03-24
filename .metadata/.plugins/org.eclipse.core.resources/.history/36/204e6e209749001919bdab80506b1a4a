@@ -1,0 +1,17 @@
+package com.tano.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+@RequestMapping("/chitiet")
+public class ChiTietController {
+
+	@GetMapping("/{id}")
+	public String ChiTiet(@PathVariable String id) {
+		System.out.print(id);
+		return "ChiTietSanPham";
+	}
+}
