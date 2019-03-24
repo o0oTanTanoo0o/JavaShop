@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author tanta
- *
- */
-module MyProject {
-}

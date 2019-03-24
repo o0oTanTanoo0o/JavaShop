@@ -1,8 +1,0 @@
-INDEX VERSION 1.4+C:\Users\tanta\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-772686344.index
-3001125550.index
-1468458275.index
-272594980.index
-3480830280.index
-2107153305.index
-371327362.index
